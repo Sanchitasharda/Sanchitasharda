@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hey, this is Sanchita Sharda</h1></summary>
+    <summary><h1 style="display: inline-block">Hey, this is Sanchita Sharda!</h1></summary>
   </ul>
 </div>
 
@@ -10,8 +10,7 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 <hr>
 
-- I'm a passionate developer, quickly grasping new concepts and expanding on my skills
-- Currently working on [Doodle Drift](https://www.github.com/sanchxt/doodle-drift), a personal project using NextJS, ReactJS, Convex / Clerk, TailwindCSS
+- I'm a passionate learner, writer and researcher. I love to explore and dig about new things, currently I am expanding on my skills.
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -26,13 +25,7 @@
     ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus)
     ![MongoDB](https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb)
     ![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
-    ![Next](https://img.shields.io/badge/Next-blue?style=for-the-badge&logo=nextdotjs)
     ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
-    ![GraphQL](https://img.shields.io/badge/GraphQL-blue?style=for-the-badge&logo=graphql)
-    ![Express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express)
-    ![TailwindCSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
-    ![C#](https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=csharp)
-    ![NodeJS](https://img.shields.io/badge/NodeJS-blue?style=for-the-badge&logo=nodedotjs)
     ![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
 
 <br>   
@@ -41,13 +34,8 @@
 
     ![Git](https://img.shields.io/badge/git-blue?style=for-the-badge&logo=git)
     ![GitHub](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)
-    ![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux)
-    ![Photoshop](https://img.shields.io/badge/photoshop-grey?style=for-the-badge&logo=adobephotoshop)
-    ![FL Studio](https://img.shields.io/badge/FL%20Studio-blue?style=for-the-badge&logo=musicbrainz)
     ![After Effects](https://img.shields.io/badge/After%20Effects-grey?style=for-the-badge&logo=adobeaftereffects)
     ![Blender/Maya](https://img.shields.io/badge/Blender%20&%20Maya-blue?style=for-the-badge&logo=autodeskmaya)
-    ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-grey?style=for-the-badge&logo=unrealengine)
-    ![Audacity](https://img.shields.io/badge/Audacity-blue?style=for-the-badge&logo=audacity)
     
 
 <br>
@@ -64,7 +52,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/sanchit-bhalla" target="_blank">
+<a href="https://linkedin.com/in/sanchita-sharda-140740229" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -72,7 +60,7 @@
 <!--
 <br>
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<a href="https://twitter.com/dracey421" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -81,7 +69,7 @@
 <br>
 
 <li>
-<a href="mailto:sanchitbhalla15@gmail.com" target="_blank">
+<a href="mailto:sanchitas1607@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
@@ -97,6 +85,6 @@
 
 <div align='center'>
 
-## <b>Smultronställe...✨</b>
+## <b>paix ✨</b>
 </div>
 <br><br><br><br>
