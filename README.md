@@ -7,7 +7,7 @@
 </div>
 
 <br>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+<picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dabout%2Bme&psig=AOvVaw1MYrRrayGDvzehL7zoEB1f&ust=1740421644659000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJivlIO22osDFQAAAAAdAAAAABAJ)" width = 50px></picture> About me
 <hr>
 
 - I'm a passionate learner, writer and researcher. I love to explore and dig about new things, currently I am expanding on my skills.
